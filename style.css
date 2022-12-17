@@ -1,0 +1,58 @@
+.body{
+
+    background-color:#fab22E;
+
+}
+
+.head-part{
+
+    font-family: 'Indie Flower', cursive;
+    margin-top: 30px;
+    font-size: 2.4rem;
+}
+
+.heading{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.emoji{
+
+    font-size: 5rem;
+
+     margin-left: 140px;
+
+}
+
+.card-text{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    margin-left: 25px;
+    font-family: 'Indie Flower', cursive;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-weight: bold;
+     background-color:#fab22E;
+     font-family: 'Indie Flower', cursive;
+      border: none; 
+      margin-top: 50px;
+      margin-left: 90px;
+      transition: background-color 1s;
+      
+}
+
+.btn:hover{
+
+    background-color: aqua;
+    
+}
+
